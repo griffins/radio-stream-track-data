@@ -1,6 +1,6 @@
-# Playing with http stream of Classic 105.
+# Music track data of the http stream of Classic 105.
 
-I used acrcloud to detect music tracks played on the http stream. Here is the data dump from tracking the station between December 2021, Jun 2022. 
+I used acrcloud to detect music tracks played on the http stream. Here is the data I got from tracking the station between December 2021, Jun 2022. 
 
 The MongoDB query used is inluded in the js file. The database schema looks like the sample document included except in same rare cases with album tags where we get an object instead of an array. I fixed it by re-adding the field as a nested array and flattening it. The code below is the snippet for that.
 
