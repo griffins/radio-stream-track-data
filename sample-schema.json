@@ -1,0 +1,118 @@
+  {
+    "_id": {"$oid": "629d043b82b52cc875e359f9"},
+    "data": {
+      "status": {
+        "msg": "Success",
+        "code": 0,
+        "version": "1.0"
+      },
+      "result_type": 0,
+      "metadata": {
+        "type": "real-time",
+        "timestamp_utc": "2022-06-05 19:29:49",
+        "music": [
+          {
+            "album": {
+              "artist": "Madonna",
+              "listeners": "100",
+              "image": [
+                {
+                  "size": "small",
+                  "#text": ""
+                },
+                {
+                  "size": "medium",
+                  "#text": ""
+                },
+                {
+                  "size": "large",
+                  "#text": ""
+                },
+                {
+                  "size": "extralarge",
+                  "#text": ""
+                },
+                {
+                  "size": "mega",
+                  "#text": ""
+                },
+                {
+                  "size": "",
+                  "#text": ""
+                },
+                {
+                  "size": "merged",
+                  "#text": "https://i.scdn.co/image/ab67616d0000b273b475f7c3c7720e5fd9c24249"
+                }
+              ],
+              "mbid": "",
+              "tags": "",
+              "name": "Kuschelrock 27",
+              "playcount": "209",
+              "url": "https://www.last.fm/music/Madonna/Kuschelrock+27"
+            },
+            "play_offset_ms": 12500,
+            "genres": [
+              {
+                "name": "Pop"
+              }
+            ],
+            "title": "Take A Bow",
+            "result_from": 3,
+            "release_date": "2017-07-05",
+            "sample_end_time_offset_ms": 8820,
+            "sample_begin_time_offset_ms": 0,
+            "label": "Warner Bros.",
+            "duration_ms": 271020,
+            "score": 100,
+            "db_begin_time_offset_ms": 2820,
+            "artists": [
+              {
+                "name": "Madonna"
+              }
+            ],
+            "db_end_time_offset_ms": 11640,
+            "external_ids": {
+            },
+            "acrid": "d44477e7b7a8f02319993bbf2f4ff1da",
+            "external_metadata": {
+              "spotify": {
+                "track": {
+                  "id": "6t6RlrPaaXoLTge0eWSsSy",
+                  "name": "Take A Bow - Edit Version"
+                },
+                "album": {
+                  "name": "GHV2"
+                },
+                "artists": [
+                  {
+                    "name": "Madonna"
+                  }
+                ]
+              },
+              "deezer": {
+                "track": {
+                  "id": "776930",
+                  "name": "Take A Bow"
+                },
+                "album": {
+                  "name": "Something To Remember"
+                },
+                "artists": [
+                  {
+                    "name": "Madonna"
+                  }
+                ]
+              },
+              "youtube": {
+                "vid": "XDeiovnCv1o"
+              }
+            }
+          }
+        ]
+      }
+    },
+    "status": 1,
+    "stream_id": "s-X9cCiie",
+    "stream_url": "https://classic105-atunwadigital.streamguys1.com/classic105"
+  },
