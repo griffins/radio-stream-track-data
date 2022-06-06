@@ -1,4 +1,4 @@
-# Playing with http streams of Classic 105.
+# Playing with http stream of Classic 105.
 
 I used acrcloud to detect music tracks played on the http stream. Here is the data dump from tracking the station between December 2021, Jun 2022. 
 
