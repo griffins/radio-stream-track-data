@@ -22,6 +22,4 @@ The MongoDB query used is inluded in the js file. The database schema looks like
   1. Pre-processed json dump where i trimed the sample schema with what i considered (in my opinion) the only import data I need as of now.
   2. A smaller dump where I perfomed aggregated the tracks by how much they were played. I grouped the tracks by title and artists. 
   
-Feel free to play with the data to see what trends and patterns you can discover. If you dont mind please let me know so i can see what you found out. 
-
-# radio-stream-data-dump-for-analysis
+Feel free to play with the data to see what trends and patterns you can discover. If you dont mind let me know so I can see what you found out. 
